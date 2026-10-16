@@ -1,0 +1,11 @@
+*/插画/*.png filter=lfs diff=lfs merge=lfs -text
+*/四宫格插画/*.png filter=lfs diff=lfs merge=lfs -text
+*/音频/*/*.wav filter=lfs diff=lfs merge=lfs -text
+*/音频/*/clips/*.wav filter=lfs diff=lfs merge=lfs -text
+音频/** filter=lfs diff=lfs merge=lfs -text
+四宫格插画/[0-9][0-9].png filter=lfs diff=lfs merge=lfs -text
+豌豆上的公主.txt filter=lfs diff=lfs merge=lfs -text
+豌豆上的公主.四宫格插画分镜.json filter=lfs diff=lfs merge=lfs -text
+豌豆上的公主.插画时间轴.json filter=lfs diff=lfs merge=lfs -text
+豌豆上的公主.插画时间轴.lrc filter=lfs diff=lfs merge=lfs -text
+音频/豌豆上的公主/豌豆上的公主/豌豆上的公主.mp3 !text !filter !merge !diff
