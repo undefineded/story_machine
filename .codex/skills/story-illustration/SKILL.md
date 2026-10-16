@@ -99,7 +99,9 @@ JSON 至少使用以下结构：
 
 ## 4. 统一画风
 
-同一个故事必须统一画风，根据故事风格选择具体媒介。默认使用温暖、柔和、友善的儿童绘本风格；推荐水彩、彩铅、蜡笔或轻柔绘本质感；使用明亮但不刺眼的高明度配色；轮廓圆润、表情清楚，避免写实、尖锐、阴暗或惊吓感。所有分镜必须保持统一的光线、材质和绘画风格。
+同一个故事必须统一画风。默认使用“明亮蓬松动物绘本风”，以用户提供的鸭子池塘参考图为配色与角色质感基准：高明度天空蓝、清透的蓝绿色湖水、暖黄色日光、鲜嫩芦苇绿，以及粉色睡莲的少量点缀；远树、云朵和水面波光通透明快。小动物须是圆头大眼、友好笑脸、可见且柔软蓬松的绒羽笔触；鸭妈妈优先采用奶油白或暖白绒羽、橙色喙、淡粉脸颊和温柔睫毛，幼鸭使用明黄或暖灰的毛茸茸短绒。保留水粉/蜡笔的手绘颗粒与柔和笔触，可以有适度羽毛层次，但不得走向写实鸟类解剖、摄影感、3D 高光或过度复杂的背景。除非用户明确指定其他风格，所有分镜必须保持这一配色、材质、角色比例、光线和绘画风格。
+
+生成提示词应明确写出：`bright sky blue, clear blue-green pond with soft sparkles, warm yellow sunlight, fresh reed green, small pink lotus accents, fluffy downy ducklings, creamy-white mother duck with orange bill and rosy cheeks`；并明确排除编号圆牌、文字、标题、Logo 与水印。参考图只用于配色、蓬松绒羽和角色亲和力，不复制其具体构图、角色数量或任何画面文字。
 
 ## 5. 对话和文字
 
@@ -124,7 +126,7 @@ Primary request: Mother sheet [母图 ID]. Four sequential micro-storyboard acti
 Grid constraints: every cell is an independently usable 3:2 landscape illustration; no character, prop or scene element crosses a grid boundary; reading order is top-left, top-right, bottom-left, bottom-right
 Visual continuity: [主角固定外观、关键道具、人物站位、光线和空间锚点]，四格中保持一致并按动作渐进
 Scene: [共同地点与必须保持不变的背景方位]
-Style/medium: warm hand-painted children’s picture book, soft watercolor and colored-pencil texture, rounded friendly character design
+Style/medium: bright fluffy animal picture book, using the approved duck-pond color guide: bright sky blue, clear blue-green pond with soft sparkles, warm yellow sunlight, fresh reed green and small pink lotus accents; soft gouache/crayon grain, friendly round large-eyed animals, visibly fluffy downy ducklings, creamy-white mother duck with orange bill and rosy cheeks; allow soft feather layers but avoid realistic anatomy, 3D gloss and photographic lighting
 Composition/framing: clear 2x2 grid, each cell readable on a small screen
 Text: no numerals, no captions, no speech bubbles, no words
 Constraints: safe for young children, no watermark, no logo
