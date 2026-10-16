@@ -1,0 +1,4 @@
+*/插画/*.png filter=lfs diff=lfs merge=lfs -text
+*/四宫格插画/*.png filter=lfs diff=lfs merge=lfs -text
+*/音频/*/*.wav filter=lfs diff=lfs merge=lfs -text
+*/音频/*/clips/*.wav filter=lfs diff=lfs merge=lfs -text
