@@ -49,9 +49,9 @@
       "id": 3.1,
       "panel": "02",
       "speaker": "旁白",
-      "text": "王子说：",
-      "direction": "作为对白引导，短促自然，停顿后进入王子的台词。",
-      "pauseAfterMs": 100
+      "text": "王子站在城堡的窗边，认真地说：",
+      "direction": "旁白温和自然，表现王子真诚而认真的愿望。",
+      "pauseAfterMs": 180
     },
     {
       "id": 3,
@@ -65,9 +65,9 @@
       "id": 4.1,
       "panel": "02",
       "speaker": "旁白",
-      "text": "老国王说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "老国王拍了拍王子的肩膀，耐心地说：",
+      "direction": "旁白沉稳温和，表现长辈的耐心和劝慰。",
+      "pauseAfterMs": 180
     },
     {
       "id": 4,
@@ -97,9 +97,9 @@
       "id": 7.1,
       "panel": "04",
       "speaker": "旁白",
-      "text": "年轻姑娘说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "年轻姑娘站在门口，有些局促，不好意思地说道：",
+      "direction": "旁白温和自然，表现姑娘礼貌、紧张的状态。",
+      "pauseAfterMs": 180
     },
     {
       "id": 7,
@@ -129,9 +129,9 @@
       "id": 10.1,
       "panel": "05",
       "speaker": "旁白",
-      "text": "王子说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "王子好奇地看着这位姑娘，忍不住开口问道：",
+      "direction": "旁白轻快自然，表现王子的好奇。",
+      "pauseAfterMs": 180
     },
     {
       "id": 10,
@@ -145,9 +145,9 @@
       "id": 11.1,
       "panel": "05",
       "speaker": "旁白",
-      "text": "年轻姑娘说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "年轻姑娘轻轻抿了抿嘴，认真地回答：",
+      "direction": "旁白温柔自然，表现她诚实而平静。",
+      "pauseAfterMs": 180
     },
     {
       "id": 11,
@@ -199,11 +199,11 @@
     },
     {
       "id": 17.1,
-      "panel": "08",
+      "panel": "07",
       "speaker": "旁白",
-      "text": "王后问：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "王后走到床边，温和地关心道：",
+      "direction": "旁白轻柔亲切，表现王后的关心。",
+      "pauseAfterMs": 180
     },
     {
       "id": 17,
@@ -215,11 +215,11 @@
     },
     {
       "id": 18.1,
-      "panel": "08",
+      "panel": "07",
       "speaker": "旁白",
-      "text": "年轻姑娘说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "年轻姑娘坐起身来，有些疲倦，却诚实地回答：",
+      "direction": "旁白温和，表现姑娘疲倦、诚实而不抱怨。",
+      "pauseAfterMs": 180
     },
     {
       "id": 18,
@@ -239,11 +239,11 @@
     },
     {
       "id": 20.1,
-      "panel": "09",
+      "panel": "08",
       "speaker": "旁白",
-      "text": "年轻姑娘说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "年轻姑娘指着那颗小豌豆，惊讶又确定地说道：",
+      "direction": "旁白轻快自然，表现她发现答案后的确认。",
+      "pauseAfterMs": 180
     },
     {
       "id": 20,
@@ -255,11 +255,11 @@
     },
     {
       "id": 21.1,
-      "panel": "09",
+      "panel": "08",
       "speaker": "旁白",
-      "text": "王子问：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "王子睁大了眼睛，十分惊讶地问：",
+      "direction": "旁白活泼自然，表现王子的惊讶和好奇。",
+      "pauseAfterMs": 180
     },
     {
       "id": 21,
@@ -271,11 +271,11 @@
     },
     {
       "id": 22.1,
-      "panel": "09",
+      "panel": "08",
       "speaker": "旁白",
-      "text": "年轻姑娘说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "年轻姑娘想了想，有些不好意思地解释：",
+      "direction": "旁白温柔自然，表现她坦诚而略带腼腆。",
+      "pauseAfterMs": 180
     },
     {
       "id": 22,
@@ -287,11 +287,11 @@
     },
     {
       "id": 23.1,
-      "panel": "09",
+      "panel": "08",
       "speaker": "旁白",
-      "text": "王后说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "王后微笑着看着她，温柔地说：",
+      "direction": "旁白温暖亲切，表现王后的理解和鼓励。",
+      "pauseAfterMs": 180
     },
     {
       "id": 23,
@@ -303,11 +303,11 @@
     },
     {
       "id": 24.1,
-      "panel": "09",
+      "panel": "08",
       "speaker": "旁白",
-      "text": "老国王说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "老国王点了点头，赞许地说道：",
+      "direction": "旁白沉稳温和，表现老国王的认可。",
+      "pauseAfterMs": 180
     },
     {
       "id": 24,
@@ -327,11 +327,11 @@
     },
     {
       "id": 26.1,
-      "panel": "10",
+      "panel": "09",
       "speaker": "旁白",
-      "text": "王子问：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "王子和姑娘一起走在花园里，王子侧过头好奇地问：",
+      "direction": "旁白轻快温柔，表现散步时的亲近和好奇。",
+      "pauseAfterMs": 180
     },
     {
       "id": 26,
@@ -343,11 +343,11 @@
     },
     {
       "id": 27.1,
-      "panel": "10",
+      "panel": "09",
       "speaker": "旁白",
-      "text": "年轻姑娘说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "年轻姑娘仔细听了听，微笑着回答：",
+      "direction": "旁白轻柔自然，表现她敏锐而认真。",
+      "pauseAfterMs": 180
     },
     {
       "id": 27,
@@ -359,11 +359,11 @@
     },
     {
       "id": 28.1,
-      "panel": "10",
+      "panel": "09",
       "speaker": "旁白",
-      "text": "王子问：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "王子闻了闻花香，又兴致勃勃地问：",
+      "direction": "旁白轻快活泼，表现王子的兴致。",
+      "pauseAfterMs": 180
     },
     {
       "id": 28,
@@ -375,11 +375,11 @@
     },
     {
       "id": 29.1,
-      "panel": "10",
+      "panel": "09",
       "speaker": "旁白",
-      "text": "年轻姑娘说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "年轻姑娘循着香味看去，肯定地回答：",
+      "direction": "旁白明亮自然，表现她细心而笃定。",
+      "pauseAfterMs": 180
     },
     {
       "id": 29,
@@ -415,11 +415,11 @@
     },
     {
       "id": 33.1,
-      "panel": "12",
+      "panel": "11",
       "speaker": "旁白",
-      "text": "王子说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "王子看着新长出的绿藤，感慨地说：",
+      "direction": "旁白温暖舒缓，表现王子的感悟。",
+      "pauseAfterMs": 180
     },
     {
       "id": 33,
@@ -431,11 +431,11 @@
     },
     {
       "id": 34.1,
-      "panel": "12",
+      "panel": "11",
       "speaker": "旁白",
-      "text": "年轻姑娘说：",
-      "direction": "对白引导，短促自然。",
-      "pauseAfterMs": 100
+      "text": "年轻姑娘轻轻抚摸着叶子，温柔地回答：",
+      "direction": "旁白柔和温暖，表现她的体贴和耐心。",
+      "pauseAfterMs": 180
     },
     {
       "id": 34,

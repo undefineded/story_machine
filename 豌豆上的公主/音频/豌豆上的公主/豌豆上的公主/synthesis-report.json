@@ -1,3 +1,328 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:73114a7140f42ed11b1b9717b12d6330fbb22fe9b65e618d57b75286abf4b5fd
-size 14384
+{
+  "title": "豌豆上的公主",
+  "segments": 53,
+  "generated": 53,
+  "reused": 0,
+  "clips": [
+    {
+      "id": 1,
+      "speaker": "旁白",
+      "text": "从前，有一位王子。他住在一座有高高尖塔的城堡里，城堡外面有花园、池塘和一条绕着城墙流淌的小河。\n\n王子很喜欢认识新朋友。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/001-旁白.wav"
+    },
+    {
+      "id": 2,
+      "speaker": "旁白",
+      "text": "他走过许多地方，见过许多公主，却总觉得还没有遇到真正合得来的人。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/002-旁白.wav"
+    },
+    {
+      "id": 3.1,
+      "speaker": "旁白",
+      "text": "王子站在城堡的窗边，认真地说：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/3.1-旁白.wav"
+    },
+    {
+      "id": 3,
+      "speaker": "王子",
+      "text": "我想找一位真诚的公主。她不必穿最华丽的裙子，也不必说最漂亮的话，只要她能做真实的自己，就好了。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/003-王子.wav"
+    },
+    {
+      "id": 4.1,
+      "speaker": "旁白",
+      "text": "老国王拍了拍王子的肩膀，耐心地说：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/4.1-旁白.wav"
+    },
+    {
+      "id": 4,
+      "speaker": "老国王",
+      "text": "那就慢慢找吧。真正合适的人，不能只看一眼就决定。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/004-老国王.wav"
+    },
+    {
+      "id": 5,
+      "speaker": "旁白",
+      "text": "有一天晚上，天空忽然暗了下来。乌云从山那边飘来，风吹得树枝不停摇晃。接着，大雨哗啦啦地下了起来。\n\n城堡里的蜡烛一盏一盏点亮，王后正在窗边看雨。忽然，城门外传来一阵“咚咚咚”的敲门声。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/005-旁白.wav"
+    },
+    {
+      "id": 6,
+      "speaker": "旁白",
+      "text": "老国王披上外套，亲自走到门口。城门打开时，雨水正顺着台阶往下流。门外站着一位年轻姑娘，她的头发湿了，裙子也湿了，鞋子上全是泥点。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/006-旁白.wav"
+    },
+    {
+      "id": 7.1,
+      "speaker": "旁白",
+      "text": "年轻姑娘站在门口，有些局促，不好意思地说道：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/7.1-旁白.wav"
+    },
+    {
+      "id": 7,
+      "speaker": "年轻姑娘",
+      "text": "您好，我在雨里走了很久，找不到住的地方。请问，我能在城堡里借住一晚吗？",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/007-年轻姑娘.wav"
+    },
+    {
+      "id": 8,
+      "speaker": "旁白",
+      "text": "老国王赶紧把她请进来。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/008-旁白.wav"
+    },
+    {
+      "id": 9,
+      "speaker": "旁白",
+      "text": "王后让人拿来干毛巾，又让厨房煮了一杯热牛奶。王子站在一旁，好奇地看着这位姑娘。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/009-旁白.wav"
+    },
+    {
+      "id": 10.1,
+      "speaker": "旁白",
+      "text": "王子好奇地看着这位姑娘，忍不住开口问道：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/10.1-旁白.wav"
+    },
+    {
+      "id": 10,
+      "speaker": "王子",
+      "text": "你从哪里来？",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/010-王子.wav"
+    },
+    {
+      "id": 11.1,
+      "speaker": "旁白",
+      "text": "年轻姑娘轻轻抿了抿嘴，认真地回答：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/11.1-旁白.wav"
+    },
+    {
+      "id": 11,
+      "speaker": "年轻姑娘",
+      "text": "我从很远的地方来。路上遇到大雨，路牌也被风吹倒了，我只好一直往前走。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/011-年轻姑娘.wav"
+    },
+    {
+      "id": 12,
+      "speaker": "旁白",
+      "text": "她没有抱怨，也没有说自己多么重要，只是认真地向大家道谢。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/012-旁白.wav"
+    },
+    {
+      "id": 13,
+      "speaker": "旁白",
+      "text": "王后看了看她，心里想：这位姑娘是不是一位真正的公主呢？真正的公主，也许不只是有王冠，还会有特别灵敏的感觉。王后没有把这个想法告诉任何人。她走进客房，在床板上放了一颗小小的豌豆。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/013-旁白.wav"
+    },
+    {
+      "id": 14,
+      "speaker": "旁白",
+      "text": "豌豆小得像一粒绿色的珠子。王后在它上面铺了一层床垫，又铺一层，再铺一层。她一共铺了二十层软软的床垫，最后盖上二十床轻飘飘的鸭绒被。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/014-旁白.wav"
+    },
+    {
+      "id": 15,
+      "speaker": "旁白",
+      "text": "姑娘向大家道了晚安，钻进暖和的被窝。夜里，雨还在屋顶上轻轻敲着。姑娘翻了一个身，觉得床下面好像有一点点不平。她换了个方向，又觉得那里有一点点硌。也许是我走了太远的路，身体太累了。她把被子往上拉了拉，闭上眼睛。可是过了一会儿，她又醒了。床下面那一点小小的感觉仍然在。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/015-旁白.wav"
+    },
+    {
+      "id": 16,
+      "speaker": "旁白",
+      "text": "第二天早晨，雨停了，太阳从云后面露出头来。王子和王后来到客房门口。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/016-旁白.wav"
+    },
+    {
+      "id": 17.1,
+      "speaker": "旁白",
+      "text": "王后走到床边，温和地关心道：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/17.1-旁白.wav"
+    },
+    {
+      "id": 17,
+      "speaker": "王后",
+      "text": "昨晚睡得好吗？",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/017-王后.wav"
+    },
+    {
+      "id": 18.1,
+      "speaker": "旁白",
+      "text": "年轻姑娘坐起身来，有些疲倦，却诚实地回答：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/18.1-旁白.wav"
+    },
+    {
+      "id": 18,
+      "speaker": "年轻姑娘",
+      "text": "被子很软，房间也很暖，可是，我的身体好像没有完全休息好。床下面有一件小小的东西，轻轻硌着我。我翻来翻去，还是能感觉到它。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/018-年轻姑娘.wav"
+    },
+    {
+      "id": 19,
+      "speaker": "旁白",
+      "text": "王后笑了起来。她让人把床垫一层一层搬开。最后，在床板上找到了那颗小豌豆。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/019-旁白.wav"
+    },
+    {
+      "id": 20.1,
+      "speaker": "旁白",
+      "text": "年轻姑娘指着那颗小豌豆，惊讶又确定地说道：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/20.1-旁白.wav"
+    },
+    {
+      "id": 20,
+      "speaker": "年轻姑娘",
+      "text": "就是它，我昨晚感觉到的就是它。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/020-年轻姑娘.wav"
+    },
+    {
+      "id": 21.1,
+      "speaker": "旁白",
+      "text": "王子睁大了眼睛，十分惊讶地问：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/21.1-旁白.wav"
+    },
+    {
+      "id": 21,
+      "speaker": "王子",
+      "text": "这么多床垫和被子，你还能感觉到一颗小豌豆？",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/021-王子.wav"
+    },
+    {
+      "id": 22.1,
+      "speaker": "旁白",
+      "text": "年轻姑娘想了想，有些不好意思地解释：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/22.1-旁白.wav"
+    },
+    {
+      "id": 22,
+      "speaker": "年轻姑娘",
+      "text": "我的皮肤可能比较敏感。我也不知道这是好事还是麻烦。有时候，一点点灰尘也会让我觉得不舒服。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/022-年轻姑娘.wav"
+    },
+    {
+      "id": 23.1,
+      "speaker": "旁白",
+      "text": "王后微笑着看着她，温柔地说：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/23.1-旁白.wav"
+    },
+    {
+      "id": 23,
+      "speaker": "王后",
+      "text": "这不是麻烦。这说明你很细心，能注意到别人不容易注意到的事情。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/023-王后.wav"
+    },
+    {
+      "id": 24.1,
+      "speaker": "旁白",
+      "text": "老国王点了点头，赞许地说道：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/24.1-旁白.wav"
+    },
+    {
+      "id": 24,
+      "speaker": "老国王",
+      "text": "而且，你从头到尾都没有为了证明自己是公主而夸大什么。你只是把真实的感觉告诉我们。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/024-老国王.wav"
+    },
+    {
+      "id": 25,
+      "speaker": "旁白",
+      "text": "王子高兴地笑了。后来，那颗豌豆被放进了一个小玻璃盒里，摆在城堡的收藏室里。王子和姑娘常常一起到花园散步。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/025-旁白.wav"
+    },
+    {
+      "id": 26.1,
+      "speaker": "旁白",
+      "text": "王子和姑娘一起走在花园里，王子侧过头好奇地问：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/26.1-旁白.wav"
+    },
+    {
+      "id": 26,
+      "speaker": "王子",
+      "text": "你听见风吹过树叶的声音了吗？",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/026-王子.wav"
+    },
+    {
+      "id": 27.1,
+      "speaker": "旁白",
+      "text": "年轻姑娘仔细听了听，微笑着回答：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/27.1-旁白.wav"
+    },
+    {
+      "id": 27,
+      "speaker": "年轻姑娘",
+      "text": "听见了。左边那棵树的叶子更响一些。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/027-年轻姑娘.wav"
+    },
+    {
+      "id": 28.1,
+      "speaker": "旁白",
+      "text": "王子闻了闻花香，又兴致勃勃地问：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/28.1-旁白.wav"
+    },
+    {
+      "id": 28,
+      "speaker": "王子",
+      "text": "你闻到花香了吗？",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/028-王子.wav"
+    },
+    {
+      "id": 29.1,
+      "speaker": "旁白",
+      "text": "年轻姑娘循着香味看去，肯定地回答：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/29.1-旁白.wav"
+    },
+    {
+      "id": 29,
+      "speaker": "年轻姑娘",
+      "text": "闻到了。那边有一朵刚刚开放的玫瑰。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/029-年轻姑娘.wav"
+    },
+    {
+      "id": 30,
+      "speaker": "旁白",
+      "text": "王子发现，和她一起散步，连花园里最细小的声音和味道都变得有趣起来。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/030-旁白.wav"
+    },
+    {
+      "id": 31,
+      "speaker": "旁白",
+      "text": "第二年春天，王子把那颗豌豆种进花园的泥土里。大家每天给它浇水，等它慢慢发芽。一根嫩嫩的绿藤从土里钻出来，绕着木架往上爬。后来，它开出一朵小小的花。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/031-旁白.wav"
+    },
+    {
+      "id": 32,
+      "speaker": "旁白",
+      "text": "姑娘站在花旁边，轻轻摸了摸叶子。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/032-旁白.wav"
+    },
+    {
+      "id": 33.1,
+      "speaker": "旁白",
+      "text": "王子看着新长出的绿藤，感慨地说：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/33.1-旁白.wav"
+    },
+    {
+      "id": 33,
+      "speaker": "王子",
+      "text": "一颗小豌豆，最后也能长成一片绿意。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/033-王子.wav"
+    },
+    {
+      "id": 34.1,
+      "speaker": "旁白",
+      "text": "年轻姑娘轻轻抚摸着叶子，温柔地回答：",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/34.1-旁白.wav"
+    },
+    {
+      "id": 34,
+      "speaker": "年轻姑娘",
+      "text": "只要给它时间，也给它合适的地方。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/034-年轻姑娘.wav"
+    },
+    {
+      "id": 35,
+      "speaker": "旁白",
+      "text": "从那以后，城堡里的人常常讲起这件事。王后总会说：认识一个人，不能只看她穿什么衣服、戴什么王冠。有时候，一颗小豌豆，就能让我们看见一个人的细心和诚实。",
+      "path": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/clips/035-旁白.wav"
+    }
+  ],
+  "outputPath": "/workspace/story_machine/豌豆上的公主/音频/豌豆上的公主/豌豆上的公主/豌豆上的公主.wav",
+  "bytes": 29013198
+}

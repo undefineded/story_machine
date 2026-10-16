@@ -61,6 +61,7 @@ await mkdir(silenceDir, { recursive: true });
 
 const files = [];
 const report = { title: config.title, segments: segments.length, generated: 0, reused: 0, clips: [] };
+const fidelity = "只朗读提供的 text 内容，严格使用中文普通话；不要添加、改写、翻译或补充任何内容，不要加入额外角色对白、英文、拟声词、开场白或结尾语。";
 for (const [index, segment] of segments.entries()) {
   const speaker = config.speakers?.[segment.speaker];
   if (!speaker) throw new Error(`segment ${segment.id} references unknown speaker: ${segment.speaker}`);
@@ -72,7 +73,7 @@ for (const [index, segment] of segments.entries()) {
   } else {
     await generateClip({
       text: segment.text,
-      voicePrompt: [speaker.voiceDesc ?? speaker.style ?? "自然、清晰地朗读提供的文本。", segment.direction].filter(Boolean).join("\n"),
+      voicePrompt: [fidelity, speaker.voiceDesc ?? speaker.style ?? "自然、清晰地朗读提供的文本。", segment.direction].filter(Boolean).join("\n"),
       outputPath: clip,
       format: "wav",
       model: speaker.model,
