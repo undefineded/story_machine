@@ -1,0 +1,1583 @@
+{
+  "title": "丑小鸭",
+  "audio": "音频/丑小鸭/丑小鸭.mp3",
+  "duration": 933.888,
+  "durationFormatted": "15:33.89",
+  "timingBasis": "估算时间轴：根据最终 MP3 总时长、音频分镜的文本量、停顿时长与 visualRefs 比例分配。正式 WAV 片段与静音片段已在发布整理时删除，不能视为逐段实际时长。",
+  "timingMethod": "estimated_from_audio_storyboard_and_final_mp3",
+  "items": [
+    {
+      "panel": "01-01",
+      "image": "四宫格插画/切分/01-01.png",
+      "start": "00:00.00",
+      "end": "00:13.07",
+      "duration": 13.066,
+      "audioSegments": [
+        1,
+        2
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 1,
+          "estimatedShare": 0.532213
+        },
+        {
+          "id": 2,
+          "estimatedShare": 0.467787
+        }
+      ],
+      "summary": "池塘与牛蒡叶下的圆窝"
+    },
+    {
+      "panel": "01-02",
+      "image": "四宫格插画/切分/01-02.png",
+      "start": "00:13.07",
+      "end": "00:24.85",
+      "duration": 11.785,
+      "audioSegments": [
+        2,
+        3
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 2,
+          "estimatedShare": 0.518634
+        },
+        {
+          "id": 3,
+          "estimatedShare": 0.481366
+        }
+      ],
+      "summary": "鸭妈妈整理防雨羽毛"
+    },
+    {
+      "panel": "01-03",
+      "image": "四宫格插画/切分/01-03.png",
+      "start": "00:24.85",
+      "end": "00:33.89",
+      "duration": 9.04,
+      "audioSegments": [
+        3,
+        4
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 3,
+          "estimatedShare": 0.62753
+        },
+        {
+          "id": 4,
+          "estimatedShare": 0.37247
+        }
+      ],
+      "summary": "鸭妈妈安静伏在蛋上"
+    },
+    {
+      "panel": "01-04",
+      "image": "四宫格插画/切分/01-04.png",
+      "start": "00:33.89",
+      "end": "00:37.26",
+      "duration": 3.367,
+      "audioSegments": [
+        4
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 4,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "一枚蛋轻轻颤动"
+    },
+    {
+      "panel": "02-01",
+      "image": "四宫格插画/切分/02-01.png",
+      "start": "00:37.26",
+      "end": "00:46.30",
+      "duration": 9.047,
+      "audioSegments": [
+        5
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 5,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "第一只黄小鸭探头"
+    },
+    {
+      "panel": "02-02",
+      "image": "四宫格插画/切分/02-02.png",
+      "start": "00:46.30",
+      "end": "00:51.79",
+      "duration": 5.49,
+      "audioSegments": [
+        6
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 6,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "第二、第三枚蛋裂开"
+    },
+    {
+      "panel": "02-03",
+      "image": "四宫格插画/切分/02-03.png",
+      "start": "00:51.79",
+      "end": "01:03.58",
+      "duration": 11.785,
+      "audioSegments": [
+        7
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 7,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "小鸭们摇晃看绿叶"
+    },
+    {
+      "panel": "02-04",
+      "image": "四宫格插画/切分/02-04.png",
+      "start": "01:03.58",
+      "end": "01:09.07",
+      "duration": 5.49,
+      "audioSegments": [
+        8
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 8,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "最大蛋独自留在窝中"
+    },
+    {
+      "panel": "03-01",
+      "image": "四宫格插画/切分/03-01.png",
+      "start": "01:09.07",
+      "end": "01:16.01",
+      "duration": 6.939,
+      "audioSegments": [
+        9
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 9,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "妈妈看着大蛋耐心等待"
+    },
+    {
+      "panel": "03-02",
+      "image": "四宫格插画/切分/03-02.png",
+      "start": "01:16.01",
+      "end": "01:22.95",
+      "duration": 6.939,
+      "audioSegments": [
+        9
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 9,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "大蛋传来轻轻震动"
+    },
+    {
+      "panel": "03-03",
+      "image": "四宫格插画/切分/03-03.png",
+      "start": "01:22.95",
+      "end": "01:29.80",
+      "duration": 6.851,
+      "audioSegments": [
+        10
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 10,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "暖灰小鸭钻出蛋壳"
+    },
+    {
+      "panel": "03-04",
+      "image": "四宫格插画/切分/03-04.png",
+      "start": "01:29.80",
+      "end": "01:45.49",
+      "duration": 15.693,
+      "audioSegments": [
+        11
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 11,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "它看妈妈和黄羽兄妹"
+    },
+    {
+      "panel": "04-01",
+      "image": "四宫格插画/切分/04-01.png",
+      "start": "01:45.49",
+      "end": "01:47.07",
+      "duration": 1.581,
+      "audioSegments": [
+        12
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 12,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰小鸭羞怯地抬头"
+    },
+    {
+      "panel": "04-02",
+      "image": "四宫格插画/切分/04-02.png",
+      "start": "01:47.07",
+      "end": "01:57.33",
+      "duration": 10.262,
+      "audioSegments": [
+        13,
+        14
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 13,
+          "estimatedShare": 0.407989
+        },
+        {
+          "id": 14,
+          "estimatedShare": 0.592011
+        }
+      ],
+      "summary": "妈妈用翅膀抱近它"
+    },
+    {
+      "panel": "04-03",
+      "image": "四宫格插画/切分/04-03.png",
+      "start": "01:57.33",
+      "end": "02:03.41",
+      "duration": 6.075,
+      "audioSegments": [
+        14
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 14,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "黄小鸭们围成温和小圈"
+    },
+    {
+      "panel": "04-04",
+      "image": "四宫格插画/切分/04-04.png",
+      "start": "02:03.41",
+      "end": "02:09.49",
+      "duration": 6.075,
+      "audioSegments": [
+        14
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 14,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "妈妈领队走向右侧池塘"
+    },
+    {
+      "panel": "05-01",
+      "image": "四宫格插画/切分/05-01.png",
+      "start": "02:09.49",
+      "end": "02:17.52",
+      "duration": 8.037,
+      "audioSegments": [
+        15
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 15,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "妈妈先跳入水中"
+    },
+    {
+      "panel": "05-02",
+      "image": "四宫格插画/切分/05-02.png",
+      "start": "02:17.52",
+      "end": "02:25.56",
+      "duration": 8.037,
+      "audioSegments": [
+        15
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 15,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "黄小鸭依次跟下水"
+    },
+    {
+      "panel": "05-03",
+      "image": "四宫格插画/切分/05-03.png",
+      "start": "02:25.56",
+      "end": "02:35.44",
+      "duration": 9.882,
+      "audioSegments": [
+        16
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 16,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰小鸭轻轻起跳"
+    },
+    {
+      "panel": "05-04",
+      "image": "四宫格插画/切分/05-04.png",
+      "start": "02:35.44",
+      "end": "02:44.59",
+      "duration": 9.15,
+      "audioSegments": [
+        17
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 17,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰像小船稳稳游着"
+    },
+    {
+      "panel": "06-01",
+      "image": "四宫格插画/切分/06-01.png",
+      "start": "02:44.59",
+      "end": "02:47.59",
+      "duration": 3.001,
+      "audioSegments": [
+        18
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 18,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "妈妈在水边欣慰看它"
+    },
+    {
+      "panel": "06-02",
+      "image": "四宫格插画/切分/06-02.png",
+      "start": "02:47.59",
+      "end": "02:55.20",
+      "duration": 7.612,
+      "audioSegments": [
+        19
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 19,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰看水中云朵倒影"
+    },
+    {
+      "panel": "06-03",
+      "image": "四宫格插画/切分/06-03.png",
+      "start": "02:55.20",
+      "end": "03:02.82",
+      "duration": 7.612,
+      "audioSegments": [
+        19
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 19,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰轻碰一朵水上小花"
+    },
+    {
+      "panel": "06-04",
+      "image": "四宫格插画/切分/06-04.png",
+      "start": "03:02.82",
+      "end": "03:10.43",
+      "duration": 7.612,
+      "audioSegments": [
+        19
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 19,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "它和妈妈在左岸芦苇找食物"
+    },
+    {
+      "panel": "07-01",
+      "image": "四宫格插画/切分/07-01.png",
+      "start": "03:10.43",
+      "end": "03:19.04",
+      "duration": 8.608,
+      "audioSegments": [
+        20
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 20,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰沿草地平静经过"
+    },
+    {
+      "panel": "07-02",
+      "image": "四宫格插画/切分/07-02.png",
+      "start": "03:19.04",
+      "end": "03:28.14",
+      "duration": 9.106,
+      "audioSegments": [
+        21
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 21,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "几只小鸭在后方侧头低语"
+    },
+    {
+      "panel": "07-03",
+      "image": "四宫格插画/切分/07-03.png",
+      "start": "03:28.14",
+      "end": "03:34.77",
+      "duration": 6.624,
+      "audioSegments": [
+        22
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 22,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰听见后耳朵般的羽毛微垂"
+    },
+    {
+      "panel": "07-04",
+      "image": "四宫格插画/切分/07-04.png",
+      "start": "03:34.77",
+      "end": "03:41.39",
+      "duration": 6.624,
+      "audioSegments": [
+        22
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 22,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "它放慢脚步低头"
+    },
+    {
+      "panel": "08-01",
+      "image": "四宫格插画/切分/08-01.png",
+      "start": "03:41.39",
+      "end": "03:48.39",
+      "duration": 6.998,
+      "audioSegments": [
+        23,
+        24
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 23,
+          "estimatedShare": 0.527197
+        },
+        {
+          "id": 24,
+          "estimatedShare": 0.472803
+        }
+      ],
+      "summary": "妈妈从左侧走到它身旁"
+    },
+    {
+      "panel": "08-02",
+      "image": "四宫格插画/切分/08-02.png",
+      "start": "03:48.39",
+      "end": "03:56.82",
+      "duration": 8.432,
+      "audioSegments": [
+        25,
+        26
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 25,
+          "estimatedShare": 0.277778
+        },
+        {
+          "id": 26,
+          "estimatedShare": 0.722222
+        }
+      ],
+      "summary": "灰灰轻轻摇头"
+    },
+    {
+      "panel": "08-03",
+      "image": "四宫格插画/切分/08-03.png",
+      "start": "03:56.82",
+      "end": "04:14.42",
+      "duration": 17.604,
+      "audioSegments": [
+        27,
+        28
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 27,
+          "estimatedShare": 0.33264
+        },
+        {
+          "id": 28,
+          "estimatedShare": 0.66736
+        }
+      ],
+      "summary": "妈妈的翅膀温柔碰它肩头"
+    },
+    {
+      "panel": "08-04",
+      "image": "四宫格插画/切分/08-04.png",
+      "start": "04:14.42",
+      "end": "04:26.17",
+      "duration": 11.748,
+      "audioSegments": [
+        28
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 28,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰抬眼听妈妈安慰"
+    },
+    {
+      "panel": "09-01",
+      "image": "四宫格插画/切分/09-01.png",
+      "start": "04:26.17",
+      "end": "04:35.58",
+      "duration": 9.406,
+      "audioSegments": [
+        29
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 29,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰点头后独自走远"
+    },
+    {
+      "panel": "09-02",
+      "image": "四宫格插画/切分/09-02.png",
+      "start": "04:35.58",
+      "end": "04:53.29",
+      "duration": 17.714,
+      "audioSegments": [
+        29,
+        30
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 29,
+          "estimatedShare": 0.530992
+        },
+        {
+          "id": 30,
+          "estimatedShare": 0.469008
+        }
+      ],
+      "summary": "它来到宽阔芦苇地"
+    },
+    {
+      "panel": "09-03",
+      "image": "四宫格插画/切分/09-03.png",
+      "start": "04:53.29",
+      "end": "05:01.60",
+      "duration": 8.308,
+      "audioSegments": [
+        30
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 30,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "它在岸边晒暖阳"
+    },
+    {
+      "panel": "09-04",
+      "image": "四宫格插画/切分/09-04.png",
+      "start": "05:01.60",
+      "end": "05:12.54",
+      "duration": 10.943,
+      "audioSegments": [
+        31
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 31,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "青蛙和两只小雁友好出现"
+    },
+    {
+      "panel": "10-01",
+      "image": "四宫格插画/切分/10-01.png",
+      "start": "05:12.54",
+      "end": "05:23.49",
+      "duration": 10.943,
+      "audioSegments": [
+        31
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 31,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "两只小雁在水上并排比赛"
+    },
+    {
+      "panel": "10-02",
+      "image": "四宫格插画/切分/10-02.png",
+      "start": "05:23.49",
+      "end": "05:28.54",
+      "duration": 5.051,
+      "audioSegments": [
+        32
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 32,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰在石边为朋友开心"
+    },
+    {
+      "panel": "10-03",
+      "image": "四宫格插画/切分/10-03.png",
+      "start": "05:28.54",
+      "end": "05:33.59",
+      "duration": 5.051,
+      "audioSegments": [
+        32
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 32,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "它望向远处若有所思"
+    },
+    {
+      "panel": "10-04",
+      "image": "四宫格插画/切分/10-04.png",
+      "start": "05:33.59",
+      "end": "05:56.95",
+      "duration": 23.364,
+      "audioSegments": [
+        33,
+        34
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 33,
+          "estimatedShare": 0.457393
+        },
+        {
+          "id": 34,
+          "estimatedShare": 0.542607
+        }
+      ],
+      "summary": "年长野鸭平静走近"
+    },
+    {
+      "panel": "11-01",
+      "image": "四宫格插画/切分/11-01.png",
+      "start": "05:56.95",
+      "end": "06:05.84",
+      "duration": 8.893,
+      "audioSegments": [
+        35,
+        36
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 35,
+          "estimatedShare": 0.559671
+        },
+        {
+          "id": 36,
+          "estimatedShare": 0.440329
+        }
+      ],
+      "summary": "灰灰向年长野鸭礼貌低头"
+    },
+    {
+      "panel": "11-02",
+      "image": "四宫格插画/切分/11-02.png",
+      "start": "06:05.84",
+      "end": "06:09.76",
+      "duration": 3.916,
+      "audioSegments": [
+        36
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 36,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "野鸭温和点头回应"
+    },
+    {
+      "panel": "11-03",
+      "image": "四宫格插画/切分/11-03.png",
+      "start": "06:09.76",
+      "end": "06:21.84",
+      "duration": 12.077,
+      "audioSegments": [
+        37
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 37,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "野鸭们在左岸忙巢与觅食"
+    },
+    {
+      "panel": "11-04",
+      "image": "四宫格插画/切分/11-04.png",
+      "start": "06:21.84",
+      "end": "06:33.92",
+      "duration": 12.077,
+      "audioSegments": [
+        37
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 37,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰转向右方准备远行"
+    },
+    {
+      "panel": "12-01",
+      "image": "四宫格插画/切分/12-01.png",
+      "start": "06:33.92",
+      "end": "06:42.17",
+      "duration": 8.257,
+      "audioSegments": [
+        38
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 38,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰和小雁向右准备出发"
+    },
+    {
+      "panel": "12-02",
+      "image": "四宫格插画/切分/12-02.png",
+      "start": "06:42.17",
+      "end": "06:50.43",
+      "duration": 8.257,
+      "audioSegments": [
+        38
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 38,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "远处乌云压来"
+    },
+    {
+      "panel": "12-03",
+      "image": "四宫格插画/切分/12-03.png",
+      "start": "06:50.43",
+      "end": "07:01.86",
+      "duration": 11.433,
+      "audioSegments": [
+        39
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 39,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "风吹芦苇倾向两边"
+    },
+    {
+      "panel": "12-04",
+      "image": "四宫格插画/切分/12-04.png",
+      "start": "07:01.86",
+      "end": "07:13.30",
+      "duration": 11.433,
+      "audioSegments": [
+        39
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 39,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰在石后举宽叶保护朋友"
+    },
+    {
+      "panel": "13-01",
+      "image": "四宫格插画/切分/13-01.png",
+      "start": "07:13.30",
+      "end": "07:16.75",
+      "duration": 3.455,
+      "audioSegments": [
+        40
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 40,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "雨点在宽叶上渐渐变小"
+    },
+    {
+      "panel": "13-02",
+      "image": "四宫格插画/切分/13-02.png",
+      "start": "07:16.75",
+      "end": "07:20.21",
+      "duration": 3.455,
+      "audioSegments": [
+        40
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 40,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰先探出石头后"
+    },
+    {
+      "panel": "13-03",
+      "image": "四宫格插画/切分/13-03.png",
+      "start": "07:20.21",
+      "end": "07:23.66",
+      "duration": 3.455,
+      "audioSegments": [
+        40
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 40,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "两只小雁靠近它表示感谢"
+    },
+    {
+      "panel": "13-04",
+      "image": "四宫格插画/切分/13-04.png",
+      "start": "07:23.66",
+      "end": "07:31.74",
+      "duration": 8.081,
+      "audioSegments": [
+        41
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 41,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "青蛙在石上温和称赞它"
+    },
+    {
+      "panel": "14-01",
+      "image": "四宫格插画/切分/14-01.png",
+      "start": "07:31.74",
+      "end": "07:45.18",
+      "duration": 13.439,
+      "audioSegments": [
+        42
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 42,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "秋叶落在开阔湖面"
+    },
+    {
+      "panel": "14-02",
+      "image": "四宫格插画/切分/14-02.png",
+      "start": "07:45.18",
+      "end": "07:53.96",
+      "duration": 8.784,
+      "audioSegments": [
+        43
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 43,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰在左岸抬头"
+    },
+    {
+      "panel": "14-03",
+      "image": "四宫格插画/切分/14-03.png",
+      "start": "07:53.96",
+      "end": "08:02.75",
+      "duration": 8.784,
+      "audioSegments": [
+        43
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 43,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "白天鹅群掠过金色夕阳"
+    },
+    {
+      "panel": "14-04",
+      "image": "四宫格插画/切分/14-04.png",
+      "start": "08:02.75",
+      "end": "08:11.53",
+      "duration": 8.784,
+      "audioSegments": [
+        43
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 43,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰望着被染金的水波"
+    },
+    {
+      "panel": "15-01",
+      "image": "四宫格插画/切分/15-01.png",
+      "start": "08:11.53",
+      "end": "08:15.56",
+      "duration": 4.026,
+      "audioSegments": [
+        44
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 44,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰望着远去的白鸟"
+    },
+    {
+      "panel": "15-02",
+      "image": "四宫格插画/切分/15-02.png",
+      "start": "08:15.56",
+      "end": "08:21.54",
+      "duration": 5.987,
+      "audioSegments": [
+        44,
+        45
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 44,
+          "estimatedShare": 0.672372
+        },
+        {
+          "id": 45,
+          "estimatedShare": 0.327628
+        }
+      ],
+      "summary": "它转向石上的青蛙询问"
+    },
+    {
+      "panel": "15-03",
+      "image": "四宫格插画/切分/15-03.png",
+      "start": "08:21.54",
+      "end": "08:39.73",
+      "duration": 18.182,
+      "audioSegments": [
+        46,
+        47
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 46,
+          "estimatedShare": 0.404187
+        },
+        {
+          "id": 47,
+          "estimatedShare": 0.595813
+        }
+      ],
+      "summary": "青蛙指向温暖的远方"
+    },
+    {
+      "panel": "15-04",
+      "image": "四宫格插画/切分/15-04.png",
+      "start": "08:39.73",
+      "end": "08:50.56",
+      "duration": 10.833,
+      "audioSegments": [
+        47
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 47,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰轻展翅膀望向天空"
+    },
+    {
+      "panel": "16-01",
+      "image": "四宫格插画/切分/16-01.png",
+      "start": "08:50.56",
+      "end": "09:01.48",
+      "duration": 10.921,
+      "audioSegments": [
+        48
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 48,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰在薄冰间游动"
+    },
+    {
+      "panel": "16-02",
+      "image": "四宫格插画/切分/16-02.png",
+      "start": "09:01.48",
+      "end": "09:12.40",
+      "duration": 10.921,
+      "audioSegments": [
+        48
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 48,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "它用脚划开小水圈"
+    },
+    {
+      "panel": "16-03",
+      "image": "四宫格插画/切分/16-03.png",
+      "start": "09:12.40",
+      "end": "09:28.01",
+      "duration": 15.606,
+      "audioSegments": [
+        49
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 49,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "农夫在右岸发现疲惫的它"
+    },
+    {
+      "panel": "16-04",
+      "image": "四宫格插画/切分/16-04.png",
+      "start": "09:28.01",
+      "end": "09:34.56",
+      "duration": 6.551,
+      "audioSegments": [
+        50
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 50,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "农夫轻抱它走向木屋"
+    },
+    {
+      "panel": "17-01",
+      "image": "四宫格插画/切分/17-01.png",
+      "start": "09:34.56",
+      "end": "09:41.11",
+      "duration": 6.551,
+      "audioSegments": [
+        50
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 50,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "农夫布置清水和麦粒"
+    },
+    {
+      "panel": "17-02",
+      "image": "四宫格插画/切分/17-02.png",
+      "start": "09:41.11",
+      "end": "09:53.35",
+      "duration": 12.238,
+      "audioSegments": [
+        51
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 51,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "孩子靠近，灰灰紧张跳进水盆"
+    },
+    {
+      "panel": "17-03",
+      "image": "四宫格插画/切分/17-03.png",
+      "start": "09:53.35",
+      "end": "10:14.30",
+      "duration": 20.949,
+      "audioSegments": [
+        51,
+        52
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 51,
+          "estimatedShare": 0.584207
+        },
+        {
+          "id": 52,
+          "estimatedShare": 0.415793
+        }
+      ],
+      "summary": "孩子退远坐下安静等待"
+    },
+    {
+      "panel": "17-04",
+      "image": "四宫格插画/切分/17-04.png",
+      "start": "10:14.30",
+      "end": "10:29.11",
+      "duration": 14.815,
+      "audioSegments": [
+        53
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 53,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰从水盆后探头看麦粒"
+    },
+    {
+      "panel": "18-01",
+      "image": "四宫格插画/切分/18-01.png",
+      "start": "10:29.11",
+      "end": "10:41.83",
+      "duration": 12.722,
+      "audioSegments": [
+        54
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 54,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰走去吃完麦粒"
+    },
+    {
+      "panel": "18-02",
+      "image": "四宫格插画/切分/18-02.png",
+      "start": "10:41.83",
+      "end": "10:54.55",
+      "duration": 12.722,
+      "audioSegments": [
+        54
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 54,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "它抬头看安静的孩子"
+    },
+    {
+      "panel": "18-03",
+      "image": "四宫格插画/切分/18-03.png",
+      "start": "10:54.55",
+      "end": "11:16.78",
+      "duration": 22.223,
+      "audioSegments": [
+        55
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 55,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "猫在左窗台、母鸡走近"
+    },
+    {
+      "panel": "18-04",
+      "image": "四宫格插画/切分/18-04.png",
+      "start": "11:16.78",
+      "end": "11:29.43",
+      "duration": 12.648,
+      "audioSegments": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 56,
+          "estimatedShare": 0.1875
+        },
+        {
+          "id": 57,
+          "estimatedShare": 0.185185
+        },
+        {
+          "id": 58,
+          "estimatedShare": 0.430556
+        },
+        {
+          "id": 59,
+          "estimatedShare": 0.196759
+        }
+      ],
+      "summary": "灰灰面对两者轻轻摇头"
+    },
+    {
+      "panel": "19-01",
+      "image": "四宫格插画/切分/19-01.png",
+      "start": "11:29.43",
+      "end": "11:39.77",
+      "duration": 10.343,
+      "audioSegments": [
+        59,
+        60,
+        61
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 59,
+          "estimatedShare": 0.240623
+        },
+        {
+          "id": 60,
+          "estimatedShare": 0.317056
+        },
+        {
+          "id": 61,
+          "estimatedShare": 0.442321
+        }
+      ],
+      "summary": "灰灰平静抬头说明自己"
+    },
+    {
+      "panel": "19-02",
+      "image": "四宫格插画/切分/19-02.png",
+      "start": "11:39.77",
+      "end": "11:57.47",
+      "duration": 17.706,
+      "audioSegments": [
+        61,
+        62
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 61,
+          "estimatedShare": 0.258371
+        },
+        {
+          "id": 62,
+          "estimatedShare": 0.741629
+        }
+      ],
+      "summary": "它站到窗边望外面的水"
+    },
+    {
+      "panel": "19-03",
+      "image": "四宫格插画/切分/19-03.png",
+      "start": "11:57.47",
+      "end": "12:16.20",
+      "duration": 18.724,
+      "audioSegments": [
+        62,
+        63
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 62,
+          "estimatedShare": 0.701329
+        },
+        {
+          "id": 63,
+          "estimatedShare": 0.298671
+        }
+      ],
+      "summary": "猫和母鸡留在后方沉思"
+    },
+    {
+      "panel": "19-04",
+      "image": "四宫格插画/切分/19-04.png",
+      "start": "12:16.20",
+      "end": "12:29.40",
+      "duration": 13.205,
+      "audioSegments": [
+        64
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 64,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰向农夫一家点头走上小路"
+    },
+    {
+      "panel": "20-01",
+      "image": "四宫格插画/切分/20-01.png",
+      "start": "12:29.40",
+      "end": "12:39.42",
+      "duration": 10.013,
+      "audioSegments": [
+        65
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 65,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰沿小路走进安静田野"
+    },
+    {
+      "panel": "20-02",
+      "image": "四宫格插画/切分/20-02.png",
+      "start": "12:39.42",
+      "end": "12:54.37",
+      "duration": 14.954,
+      "audioSegments": [
+        65,
+        66
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 65,
+          "estimatedShare": 0.669604
+        },
+        {
+          "id": 66,
+          "estimatedShare": 0.330396
+        }
+      ],
+      "summary": "它在矮墙边张开有力翅膀"
+    },
+    {
+      "panel": "20-03",
+      "image": "四宫格插画/切分/20-03.png",
+      "start": "12:54.37",
+      "end": "13:02.21",
+      "duration": 7.839,
+      "audioSegments": [
+        66,
+        67
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 66,
+          "estimatedShare": 0.630252
+        },
+        {
+          "id": 67,
+          "estimatedShare": 0.369748
+        }
+      ],
+      "summary": "它惊喜落在矮墙上"
+    },
+    {
+      "panel": "20-04",
+      "image": "四宫格插画/切分/20-04.png",
+      "start": "13:02.21",
+      "end": "13:13.63",
+      "duration": 11.419,
+      "audioSegments": [
+        68
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 68,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "它飞向右侧苹果花园"
+    },
+    {
+      "panel": "21-01",
+      "image": "四宫格插画/切分/21-01.png",
+      "start": "13:13.63",
+      "end": "13:24.87",
+      "duration": 11.243,
+      "audioSegments": [
+        69
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 69,
+          "estimatedShare": 1
+        }
+      ],
+      "summary": "灰灰落在清亮湖面低头喝水"
+    },
+    {
+      "panel": "21-02",
+      "image": "四宫格插画/切分/21-02.png",
+      "start": "13:24.87",
+      "end": "13:55.39",
+      "duration": 30.523,
+      "audioSegments": [
+        70,
+        71
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 70,
+          "estimatedShare": 0.589928
+        },
+        {
+          "id": 71,
+          "estimatedShare": 0.410072
+        }
+      ],
+      "summary": "水中倒影显出洁白长颈天鹅"
+    },
+    {
+      "panel": "21-03",
+      "image": "四宫格插画/切分/21-03.png",
+      "start": "13:55.39",
+      "end": "14:27.23",
+      "duration": 31.833,
+      "audioSegments": [
+        71,
+        72,
+        73,
+        74
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 71,
+          "estimatedShare": 0.393194
+        },
+        {
+          "id": 72,
+          "estimatedShare": 0.130605
+        },
+        {
+          "id": 73,
+          "estimatedShare": 0.187629
+        },
+        {
+          "id": 74,
+          "estimatedShare": 0.288572
+        }
+      ],
+      "summary": "白天鹅群从右侧温和游来"
+    },
+    {
+      "panel": "21-04",
+      "image": "四宫格插画/切分/21-04.png",
+      "start": "14:27.23",
+      "end": "15:33.89",
+      "duration": 66.66,
+      "audioSegments": [
+        74,
+        75,
+        76,
+        77
+      ],
+      "audioSegmentParts": [
+        {
+          "id": 74,
+          "estimatedShare": 0.137806
+        },
+        {
+          "id": 75,
+          "estimatedShare": 0.063248
+        },
+        {
+          "id": 76,
+          "estimatedShare": 0.381684
+        },
+        {
+          "id": 77,
+          "estimatedShare": 0.417261
+        }
+      ],
+      "summary": "小天鹅与新朋友同向游过花瓣"
+    }
+  ]
+}
